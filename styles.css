@@ -1,0 +1,55 @@
+
+body{
+    background-color: black;
+    color: rgb(81, 0, 255);
+    margin: 50px;
+    
+    
+}
+
+
+.header{
+    display: block;
+    text-align: left;
+    font-size: 70px;
+    font-style: italic;
+    padding: 60px;
+    border: 20px dotted;
+    border-radius: 40px;
+    border-color: white;
+   
+}
+
+h1{
+    display: block;
+    font-size: 60px;
+}
+
+.button{
+    
+    font-size: 2rem;
+    color: magenta;
+    
+}
+
+.lor{
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.animes{
+    font-size: 50px;
+    text-align: center;
+    border: 20px dotted;
+    border-style: groove;
+    border-color: aquamarine;
+    padding: 20px;
+    margin: 0 auto;
+    
+
+}
+
+h2{
+    text-align: left;
+}
+
